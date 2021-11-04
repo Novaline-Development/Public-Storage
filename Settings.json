@@ -1,0 +1,11 @@
+{
+  "RPC": true,
+  "TopMost": false,
+  "AutoAttach": false,
+  "Transparency": false,
+  "AutoExecute": false,
+  "WeAreDevsToggled": true,
+  "KrnlToggled": false,
+  "OxygenUToggled": false,
+  "EasyExploitsToggled": false
+}
