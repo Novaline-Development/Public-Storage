@@ -1,11 +1,12 @@
 {
   "RPC": true,
-  "TopMost": false,
+  "TopMost": true,
   "AutoAttach": false,
   "Transparency": false,
   "AutoExecute": false,
   "WeAreDevsToggled": true,
   "KrnlToggled": false,
   "OxygenUToggled": false,
-  "EasyExploitsToggled": false
+  "EasyExploitsToggled": false,
+  "OpenDiscord": false
 }
