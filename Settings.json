@@ -1,6 +1,6 @@
 {
   "RPC": true,
-  "TopMost": true,
+  "TopMost": false,
   "AutoAttach": false,
   "Transparency": false,
   "AutoExecute": false,
