@@ -4,9 +4,8 @@
   "AutoAttach": false,
   "Transparency": false,
   "AutoExecute": false,
-  "WeAreDevsToggled": false,
-  "KatoToggled": true,
-  "KrnlToggled": false,
+  "WeAreDevsToggled": true,
+  "KatoToggled": false,
   "OpenDiscord": true,
   "ThemesToggled": false
 }
